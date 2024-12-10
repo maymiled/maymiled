@@ -4,6 +4,7 @@
 
 
 **Data Scientist in the making.** | AI Enthusiast | Problem Solver
+
 📍 Based in Paris | 🌍 Exploring the world of AI.  
 ---
 
