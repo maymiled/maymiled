@@ -32,11 +32,9 @@ Interested in my background?
 
 - **Master 1: Decision-Support IT and Mathematics**  
   _Université Paris Dauphine-PSL_  
-  - Focus: NLP, Reinforcement Learning, AI, Graph Theory.
 
-- **BSc: Mathematics and Computer Science**  
+- **BSc: Mathematics and Computer Science (MIDO program)**  
   _Université Paris Dauphine-PSL_
-   - Focus: Advanced Mathematics, Statistical Modeling, and Computer Science (MIDO program).
 
 ---
 
