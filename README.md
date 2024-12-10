@@ -1,32 +1,30 @@
 # 🌟 Welcome to Mayy's GitHub! 🌟
 
-Data Scientist in the making | AI Enthusiast | Problem Solver
+**Aspiring Data Scientist** | **AI Enthusiast** | **Problem Solver**
 
 ---
 
 ## 🧠 About Me
 
-I am a **Master's student in Decision-Support IT and Mathematics** at **Université Paris Dauphine-PSL**, passionate about harnessing the power of **AI** and **data science** to solve complex problems. My journey in tech started with a Bachelor's degree in Mathematics and Data Science, where I developed a solid foundation in **machine learning**, **statistics**, and **computer science**.
+I'm a **Master's student in Decision-Support IT and Mathematics** at **Université Paris Dauphine-PSL**, passionate about using **AI** and **data science** to solve real-world problems. With a strong foundation in **machine learning**, **statistics**, and **computer science**, I’m eager to tackle challenges in innovative ways.
 
-🔍 Currently seeking a **4-month data science internship starting in May 2025** (also open to alternance opportunities starting September 2025). 
+🔍 **Seeking a 4-month data science internship starting in May 2025** (open to alternance opportunities starting September 2025).
 
 ---
-## 📄 My Resume
 
-Interested in my background? Check out my resume below:  
-[Download My Resume/CV](./Mayy-Miled-CV.pdf)
+## 📄 Resume
+
+Interested in my background?  
+[Download My Resume](./Mayy-Miled-CV.pdf)
 
 ---
 
 ## 🛠️ Skills
 
-### Programming & Tools
-- **Languages:** Python, Java, R, SQL, Haskell, C  
-- **Libraries & Frameworks:** Scikit-learn, TensorFlow, Numpy, Pandas, NetworkX  
-- **Others:** UNIX, JSON, LaTeX  
-
-### Soft Skills
-- Critical Thinking, Problem Solving, Collaboration
+- **Programming Languages:** Python, Java, R, SQL, Haskell, C  
+- **Libraries & Tools:** Scikit-learn, TensorFlow, Numpy, Pandas, NetworkX, LaTeX  
+- **Soft Skills:** Critical Thinking, Problem Solving, Collaboration  
+- **Languages:** French (Fluent), English (Fluent : 8/9 IELTS), Arabic (Fluent), Spanish (B2)
 
 ---
 
@@ -38,23 +36,15 @@ Interested in my background? Check out my resume below:
 
 - **BSc: Mathematics and Data Science**  
   _Université Paris Dauphine-PSL_  
-  - Notable Project: Predicting ages based on facial features using TensorFlow and Scikit-learn.
-
----
-
-## 🌍 Languages
-
-- French, Arabic (Fluent)  
-- English (Fluent, 8/9 IELTS)  
-- Spanish (B2)  
+  - Project: Predicted ages from facial features using TensorFlow and Scikit-learn.
 
 ---
 
 ## 🌐 Connect with Me!
 
-- **LinkedIn:** [Mayy Miled](https://www.linkedin.com/in/mayy-miled/)  
-- **Email:** mayy.miled@dauphine.eu  
+- [LinkedIn](https://www.linkedin.com/in/mayy-miled/)  
+- 📧 mayy.miled@dauphine.eu  
 
 ---
 
-✨ Let's collaborate and make an impact in the world of AI and data science!  
+✨ Let’s create impactful AI solutions together!
