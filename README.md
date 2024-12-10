@@ -11,6 +11,10 @@ I am a **Master's student in Decision-Support IT and Mathematics** at **Universi
 🔍 Currently seeking a **4-month data science internship starting in May 2025** (also open to alternance opportunities starting September 2025). 
 
 ---
+## 📄 My CV
+Interested in my background? Check out my CV below:  
+[Download My CV](./Mayy-Miled-CV.pdf)
+---
 
 ## 🛠️ Skills
 
@@ -48,7 +52,6 @@ I am a **Master's student in Decision-Support IT and Mathematics** at **Universi
 
 - **LinkedIn:** [Mayy Miled](https://www.linkedin.com/in/mayy-miled/)  
 - **Email:** mayy.miled@dauphine.eu  
-[![View My CV](https://img.shields.io/badge/View-My%20CV-blue)](./MayMiledCV.pdf)
 
 ---
 
