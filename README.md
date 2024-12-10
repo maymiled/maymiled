@@ -1,9 +1,10 @@
-# 👋 Hey, I'm Mayy !
+# 🌟 Welcome to Mayy's GitHub! 🌟
+
 ![Welcome](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 
-🌟 Aspiring Data Scientist | AI Enthusiast | Problem Solver
-
+**Data Scientist in the making.** | AI Enthusiast | Problem Solver
+📍 Based in Paris | 🌍 Exploring the world of AI.  
 ---
 
 ## 🧠 About Me
