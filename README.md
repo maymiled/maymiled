@@ -1,6 +1,6 @@
 # 🌟 Welcome to Mayy's GitHub! 🌟
 
-![Welcome](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+![Building the Future](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
 
 Data Scientist in the making | AI Enthusiast | Problem Solver
