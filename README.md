@@ -14,7 +14,7 @@ I am a **Master's student in Decision-Support IT and Mathematics** at **Universi
 ## 📄 My Resume
 
 Interested in my background? Check out my resume below:  
-[Download My CV](./Mayy-Miled-CV.pdf)
+[Download My Resume/CV](./Mayy-Miled-CV.pdf)
 
 ---
 
