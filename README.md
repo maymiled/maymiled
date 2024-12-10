@@ -48,6 +48,7 @@ I am a **Master's student in Decision-Support IT and Mathematics** at **Universi
 
 - **LinkedIn:** [Mayy Miled](https://www.linkedin.com/in/mayy-miled/)  
 - **Email:** mayy.miled@dauphine.eu  
+[![View My CV](https://img.shields.io/badge/View-My%20CV-blue)](./MayMiledCV.pdf)
 
 ---
 
