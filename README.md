@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mayy Miled!
+# 👋 Hey, I'm Mayy !
 
 🌟 Aspiring Data Scientist | AI Enthusiast | Problem Solver
 
