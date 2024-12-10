@@ -30,7 +30,7 @@ Interested in my background?
 
 ## 📚 Education
 
-- **Master 1: Decision-Support IT and Mathematics**  
+- **Master 1: Data Science, Decision-Support IT and Mathematics**  
   _Université Paris Dauphine-PSL_  
 
 - **BSc: Mathematics and Computer Science (MIDO program)**  
