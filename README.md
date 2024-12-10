@@ -11,9 +11,9 @@ I am a **Master's student in Decision-Support IT and Mathematics** at **Universi
 🔍 Currently seeking a **4-month data science internship starting in May 2025** (also open to alternance opportunities starting September 2025). 
 
 ---
-## 📄 My Resumé
+## 📄 My Resume
 
-Interested in my background? Check out my Resume below:  
+Interested in my background? Check out my resume below:  
 [Download My CV](./Mayy-Miled-CV.pdf)
 
 ---
