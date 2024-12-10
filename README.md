@@ -21,7 +21,7 @@ Interested in my background?
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, Java, R, SQL, Haskell, C  
+- **Programming Languages:** Python, Java, C, R, SQL, Haskell
 - **Libraries & Tools:** Scikit-learn, TensorFlow, Numpy, Pandas, NetworkX, LaTeX  
 - **Soft Skills:** Critical Thinking, Problem Solving, Collaboration  
 - **Languages:** French (Fluent), English (Fluent : 8/9 IELTS), Arabic (Fluent), Spanish (B2)
@@ -34,9 +34,9 @@ Interested in my background?
   _Université Paris Dauphine-PSL_  
   - Focus: NLP, Reinforcement Learning, AI, Graph Theory.
 
-- **BSc: Mathematics and Data Science**  
-  _Université Paris Dauphine-PSL_  
-  - Project: Predicted ages from facial features using TensorFlow and Scikit-learn.
+- **BSc: Mathematics and Computer Science**  
+  _Université Paris Dauphine-PSL_
+   - Focus: Advanced Mathematics, Statistical Modeling, and Computer Science (MIDO program).
 
 ---
 
