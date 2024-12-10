@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a **Master's student in Decision-Support IT and Mathematics** at **Université Paris Dauphine-PSL**, passionate about using **AI** and **data science** to solve real-world problems. With a strong foundation in **machine learning**, **statistics**, and **computer science**, I’m eager to tackle challenges in innovative ways.
+I'm a **Master's student in Data Science, IT and Mathematics** at **Université Paris Dauphine-PSL**, passionate about using **AI** and **data science** to solve real-world problems. With a strong foundation in **machine learning**, **statistics**, and **computer science**, I’m eager to tackle challenges in innovative ways.
 
 🔍 **Seeking a 4-month data science internship starting in May 2025** (open to alternance opportunities starting September 2025).
 
