@@ -1,4 +1,6 @@
 # 👋 Hey, I'm Mayy !
+![Welcome](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+
 
 🌟 Aspiring Data Scientist | AI Enthusiast | Problem Solver
 
