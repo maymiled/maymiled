@@ -17,6 +17,7 @@ I'm a **Master's student in Data Science, IT and Mathematics** at **Université 
 Interested in my background?  
 [Download My Resume](CVMayyMiled/MayyMiledCV.pdf)
 
+
 ---
 
 ## 🛠️ Skills
