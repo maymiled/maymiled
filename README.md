@@ -15,7 +15,7 @@ I'm a **Master's student in Data Science, IT and Mathematics** at **Université 
 ## 📄 Resume
 
 Interested in my background?  
-[Download My Resume](https://github.com/maymiled/CV/blob/main/MayyMiledCV.pdf)
+[Download My Resume](https://github.com/maymiled/CV/blob/main/RESUME.pdf)
 
 
 
