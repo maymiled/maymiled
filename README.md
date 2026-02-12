@@ -6,9 +6,9 @@
 
 ## 🧠 About Me
 
-I'm a **Master's student in Data Science, IT and Mathematics** at **Université Paris Dauphine-PSL**, passionate about using **AI** and **data science** to solve real-world problems. With a strong foundation in **machine learning**, **statistics**, and **computer science**, I’m eager to tackle challenges in innovative ways.
+I'm a **Master's student in Artificial Intelligence and Data Science** at **PSL Research University**. With a strong foundation in **machine learning**, **statistics**, **RL** and **Deep Learning** I’m eager to tackle challenges in innovative ways.
 
-🔍 **Seeking a 4-month data science internship starting in May 2025** (open to alternance opportunities starting September 2025).
+🔍 **Seeking a PHD in one of these topics (CIFRE)** 
 
 ---
 
@@ -24,13 +24,16 @@ Interested in my background?
 ## 🛠️ Skills
 
 - **Programming Languages:** Python, Java, C, R, SQL, Haskell
-- **Libraries & Tools:** Scikit-learn, TensorFlow, Numpy, Pandas, NetworkX, LaTeX  
+- **Libraries & Tools:** PyTorch, Polars, StatsModels, StatsForecast (NIXTLA), Matplotlib, Seaborn, Scipy, MLFlow, Scikit-learn, TensorFlow, Numpy, Pandas, NetworkX
 - **Soft Skills:** Critical Thinking, Problem Solving, Collaboration  
 - **Languages:** French (Fluent), English (Fluent : 8/9 IELTS), Arabic (Fluent), Spanish (B2)
 
 ---
 
 ## 📚 Education
+
+- **Master 2: AI & Data Science**  
+  _PSL Research University (Dauphine x ENS x Les Mines)_  
 
 - **Master 1: Data Science, Decision-Support IT and Mathematics**  
   _Université Paris Dauphine-PSL_  
